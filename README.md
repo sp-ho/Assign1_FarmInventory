@@ -35,16 +35,16 @@ The project has the following dependencies:
 
 - Npgsql: A .NET data provider for PostgreSQL. It is used for connecting to the PostgreSQL database and executing queries.
 
-## Images of Views
+## Images
 
-|<img src="images/MainWindow.PNG" alt="image" width="400" height="350">|
+|<img src="images/MainWindow.png" alt="image" width="400" height="300">|
 |:--:|
 |Figure 1: MainWindow|
 
-|<img src="images/Admin.PNG" alt="image" width="400" height="350">|
+|<img src="images/Admin.PNG" alt="image" width="400" height="300">|
 |:--:|
 |Figure 2: Admin window|
 
-|<img src="images/Sales.png" alt="image" width="400" height="450">|
+|<img src="images/Sales.png" alt="image" width="400" height="300">|
 |:--:|
 |Figure 3: Sales window|
