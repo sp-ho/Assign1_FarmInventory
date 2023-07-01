@@ -37,7 +37,7 @@ The project has the following dependencies:
 
 ## Images of Views
 
-|<img src="images/MainWindow.PNG" alt="image" width="400" height="350">|
+|<img src="images/MainWindow.png" alt="image" width="400" height="350">|
 |:--:|
 |Figure 1: MainWindow|
 
@@ -45,6 +45,6 @@ The project has the following dependencies:
 |:--:|
 |Figure 2: Admin window|
 
-|<img src="images/Sales.png" alt="image" width="400" height="450">|
+|<img src="images/Sales.png" alt="image" width="400" height="350">|
 |:--:|
 |Figure 3: Sales window|
