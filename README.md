@@ -1,6 +1,6 @@
 ﻿# DesktopDevEQ3Assign1
 
-# FarmInventory
+# FarmInventorySales
 
 FarmInventory is a Windows desktop application that helps manage the inventory and sales of products in a farm. It provides features for adding new products, updating product quantities, and making sales.
 
