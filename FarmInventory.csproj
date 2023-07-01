@@ -121,7 +121,6 @@
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\SalesController.cs" />
     <Compile Include="Models\CartItem.cs" />
-    <Compile Include="Models\CartItemModel.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Views\Admin.xaml.cs">
       <DependentUpon>Admin.xaml</DependentUpon>
@@ -152,7 +151,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\ProductModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
